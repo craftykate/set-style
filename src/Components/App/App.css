@@ -1,0 +1,17 @@
+.box {
+  margin: 20px auto;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.unclicked {
+  background-color: pink;
+}
+
+.clicked {
+  background-color: orange;
+}
